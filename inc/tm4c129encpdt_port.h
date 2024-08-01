@@ -2,7 +2,7 @@
  * tm4c129encpdt_port.h
  *
  *  Created on: 22-Jun-2024
- *      Author: Arunava Krmakar
+ *      Author: Arunava Karmakar
  *        mail: arunava.karmakar@protonmail.ch
  */
 

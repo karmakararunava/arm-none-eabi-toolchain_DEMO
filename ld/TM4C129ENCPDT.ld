@@ -2,7 +2,7 @@
  * TM4C129ENCPDT.ld
  *
  *  Created on: 01-Aug-2024
- *      Author: Arunava Krmakar
+ *      Author: Arunava Karmakar
  *        mail: arunava.karmakar@protonmail.ch
  */
 /* Linker script for TM4C129ENCPDT */
